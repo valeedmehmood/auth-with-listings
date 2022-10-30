@@ -75,7 +75,7 @@ const Login = () => {
   }
 
   if(token){
-    return <Navigate to="/sadasdsadas" />
+    return <Navigate to="/" />
   }
 
   return (

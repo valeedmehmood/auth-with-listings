@@ -1,0 +1,2 @@
+export const SETAUTHENTICATED = "SETAUTHENTICATED"
+export const LOGOUT = "LOGOUT"

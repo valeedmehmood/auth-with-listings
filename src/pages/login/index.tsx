@@ -51,7 +51,6 @@ const Login = () => {
       }
       navigate("/") 
     } catch (error: any) {
-      console.log("asd", error.message)
       toast.error("Something went wrong")
     }finally{
       setLoading(false)
